@@ -63,7 +63,7 @@ Now let's delete the testfile.txt. Then return back to the controller. Now let\'
 hello world
 ```
 
-In the HelloWorld.yml file I then changed the copy module's 'content' attribute to 'src':
+In the HelloWorld.yml file I then changed the copy module's **content** attribute to **src**:
 
 ```yaml
 ---
